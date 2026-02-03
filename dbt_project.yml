@@ -18,5 +18,5 @@ clean-targets:
 
 models:
   databird:
-    example:
-      +materialized: table
+    +materialized: table
+
