@@ -13,4 +13,4 @@ models:
 
     columns:
       - name: order_item_id
-        description: This is a unique identifier for the order
+        description: This is a unique identifier for the order 
