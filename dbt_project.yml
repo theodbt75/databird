@@ -39,7 +39,7 @@ models:
       relation: true
       columns: true
       
-  my_first_dbt_project:
+  databird:
 
     staging:
       materialized: view
